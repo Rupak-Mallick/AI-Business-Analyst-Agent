@@ -1,0 +1,7 @@
+langchain
+langgraph
+langsmith
+langchain-groq
+psycopg2-binary
+pymongo
+python-dotenv
